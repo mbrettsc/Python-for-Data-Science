@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "ft_package_mbrettsc"
+name = "ft_package"
 version = "0.0.1"
 authors = [
   { name="mbrettsc", email="mbrettsc@student.42wolfsburg.de" },
@@ -17,4 +17,4 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/mbrettsc/Python-for-Data-Science/tree/main/Python-0-Starting/ex09/ft_package"
+Homepage = "https://github.com/mbrettsc/Python-for-Data-Science/tree/main/Python-0-Starting/ex09/"
