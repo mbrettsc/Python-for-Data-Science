@@ -17,4 +17,4 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/mbrettsc/ft_package/tree/main/Python-0-Starting/ex09/ft_package"
+Homepage = "https://github.com/mbrettsc/Python-for-Data-Science/tree/main/Python-0-Starting/ex09/ft_package"
