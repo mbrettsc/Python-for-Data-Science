@@ -3,8 +3,8 @@
 
 
 - **Contents:**
-  - [Python - 0 - Starting](python-0-starting/README.md)
-  - [Python - 1 - Array](python-1-array/README.md)
-  - [Python - 2 - DataTable](python-2-datatable/README.md)
-  - [Python - 3 - OOP](python-3-oop/README.md)
-  - [Python - 4 - Dod](python-4-dod/README.md)
+  - [Python - 0 - Starting](Python-0-Starting/README.md)
+  - [Python - 1 - Array](Python-1-Array/README.md)
+  - [Python - 2 - DataTable](Python-2-Datatable/README.md)
+  - [Python - 3 - OOP](Python-3-OOP/README.md)
+  - [Python - 4 - Dod](Python-4-dod/README.md)
