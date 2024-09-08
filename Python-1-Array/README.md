@@ -1,4 +1,4 @@
-# Training Piscine Python for Data Science - 1: Array
+# Python for Data Science - 1: Array
 
 Welcome to the Training Piscine for Data Science, focusing on array manipulation and image processing.
 
