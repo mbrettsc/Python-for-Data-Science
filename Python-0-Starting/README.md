@@ -1,4 +1,4 @@
-# Python Piscine - Module 0: Starting
+# Python for Data Science - 0: Starting
 
 Welcome to the Python Piscine for Data Science. This module is designed to introduce you to the basics of Python programming.
 
