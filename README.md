@@ -12,7 +12,7 @@ Welcome to the Python Piscine! This repository contains a series of training mod
 
 ## Getting Started
 
-1. **Clone the Repository**: `git clone [<repository-url>](https://github.com/mbrettsc/Python-for-Data-Science.git)`
+1. **Clone the Repository**: `git clone https://github.com/mbrettsc/Python-for-Data-Science.git`
 2. **Navigate to the Module Directory**: `cd <module-directory>`
 3. **Follow the Instructions**: Each module contains its own set of instructions and exercises. Follow them to complete the tasks.
 
